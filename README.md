@@ -1,6 +1,6 @@
 # Simple_ToDo_List
 
-![My Image](https://i.imgur.com/QnYS1lt.png)
+![My Image](https://i.imgur.com/EFpAB51.png)
 ![My Image](https://i.imgur.com/EjmbMkp.png)
 
 Created a To-Do list with simple add, checkbox, and delete functions. 
